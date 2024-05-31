@@ -1,6 +1,6 @@
 name: responsive_priority_list
 description: "A Flutter Widget for responsive Columns and Rows"
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/Jaaco/responsive_priority_list
 
 environment:
