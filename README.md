@@ -6,8 +6,7 @@ The advantage of this widget is that the size of all children is fixed, meaning 
 
 Due to the priority parameter, one can decide the exact order in which the children are hidden if the space is reduced, from least to most important.
 
-
-https://github.com/Jaaco/responsive_priority_list/assets/19706843/01560994-b380-4573-8f5a-31379970d8fb
+https://github.com/Jaaco/responsive_priority_list/assets/19706843/0153bae4-dd15-49e3-a787-00221ae83782
 
 ## Usage
 Use either the `.column` or `.row` constructor.
