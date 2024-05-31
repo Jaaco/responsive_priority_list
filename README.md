@@ -1,6 +1,13 @@
 # Responsive Priority List
 The purpose of this widget is to have responsive Rows & Columns, that hide their children depending on size and prioritry.
 
+This can be useful for data views, where data can be hidden, if there is too little size left.
+The advantage of this widget is that the size of all children is fixed, meaning that they are not squashed together but instead hidden, if not enough size is available.
+
+Due to the priority parameter, one can decide the exact order in which the children are hidden if the space is reduced, from least to most important.
+
+https://github.com/Jaaco/responsive_priority_list/assets/19706843/0b85d900-753b-447c-a0e8-b032a0cce411
+
 ## Usage
 Use either the `.column` or `.row` constructor.
 Wrap your widgets in a `PriorityWidget`, where the `sizeInMainAxis` is the size in pixels along the main axis of the chosen widget.
